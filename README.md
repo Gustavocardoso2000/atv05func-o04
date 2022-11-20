@@ -1,4 +1,4 @@
-## Exercicio 03 - Lista 05 função
+## Exercicio 04 - Lista 05 função
 
 Faça um programa, com uma função que necessite de três argumentos, e que forneça a soma desses três argumentos.
 
